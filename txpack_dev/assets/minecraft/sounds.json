@@ -1,0 +1,106 @@
+{
+  "prisma.music.background1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/music/background1"
+      }
+    ]
+  },
+  "prisma.music.minecartbg": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/music/minecartbg"
+      }
+    ]
+  },
+  "prisma.music.kuwop": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/music/kuwop"
+      }
+    ]
+  },
+  "prisma.music.actingnatural": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/music/actingnatural"
+      }
+    ]
+  },
+  "prisma.voice.tram-pozcorp": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/voice/tram-pozcorp"
+      }
+    ]
+  },
+  "prisma.voice.tram-albanel": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/voice/tram-albanel"
+      }
+    ]
+  },
+  "prisma.voice.tram-austin": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/voice/tram-austin"
+      }
+    ]
+  },
+  "prisma.voice.tram-grove": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/voice/tram-grove"
+      }
+    ]
+  },
+  "prisma.voice.tram-prisma": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/voice/tram-prisma"
+      }
+    ]
+  },
+  "prisma.voice.tram-redmond": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/voice/tram-redmond"
+      }
+    ]
+  },
+  "prisma.voice.tram-victoria": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/voice/tram-victoria"
+      }
+    ]
+  },
+  "prisma.voice.tram-wakefield": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/voice/tram-wakefield"
+      }
+    ]
+  },
+  "prisma.sfx.chime": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/sfx/chime"
+      }
+    ]
+  }
+}
