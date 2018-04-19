@@ -95,6 +95,14 @@
       }
     ]
   },
+  "prisma.music.sanandreas": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/music/sanandreas"
+      }
+    ]
+  },
   "prisma.sfx.chime": {
     "category": "record",
     "sounds": [
