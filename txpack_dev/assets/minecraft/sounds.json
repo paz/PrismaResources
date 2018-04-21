@@ -103,6 +103,14 @@
       }
     ]
   },
+  "prisma.music.background2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "prisma/music/background2"
+      }
+    ]
+  },
   "prisma.sfx.chime": {
     "category": "record",
     "sounds": [
